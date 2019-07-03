@@ -1,5 +1,8 @@
 import random
+
+# members of Group: simin Arsalan (94064) and aqida manavie (95051)
 guessesTaken = 0
+
 print('Hello! What is your name?')
 counter=0
 myName = input()
